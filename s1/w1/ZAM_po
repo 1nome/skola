@@ -1,0 +1,31 @@
+Teorie:
+
+vyrok - veta, o ktere se muzeme bavit zda je pravdive nebo ne
+
+pravdivostni tabulka
+|A|B|A&B|A|B|A=>B|A<=>B|!A|!B|!B=>!A|
+|1|1| 1 | 1 | 1  |  1  |0 |0 |  1   |
+|1|0| 0 | 1 | 0  |  0  |0 |1 |  0   |
+|0|1| 0 | 1 | 1  |  0  |1 |0 |  1   |
+|0|0| 0 | 0 | 1  |  1  |1 |1 |  1   |
+
+<=> - ekvivalence - pokud plati vyrok A, vyrok B taky
+=> - implikace
+	z vyroku A implikuje B a B implikuje C vyplyva, ze A impllikuje C
+[A=>B]<=>[!B=>!A] - proc? druhy vyrok muze byt jednodussi na prokazani
+
+U: definice intervalu
+	Množina reálných čísel mezi menzími hodnotami
+   definice sudeho cisla
+   	Rekneme, ze cislo c nalezi do Z, je sude, pokud je nasobkem 2
+
+preskrtnute V - pro kazdy (napr. prvek z mnoziny)
+: - plati (pouzito napr. s predchozim symbolem)
+c - inkluze - McN - M je podmnozinou N
+
+Typicka struktura vety - predpoklady => dukazy
+typy dukazu:	přímé
+		sporem - zacneme negaci vyroku, ktery chceme prokazat
+			 typicky priklad je dukaz, ze sqrt(2) je iracionalni
+
+projekty: interval, sqrt2 + sqrt3 = irac., polynom 3. stupne nema 4 koreny
