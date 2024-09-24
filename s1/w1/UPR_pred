@@ -1,0 +1,62 @@
+vysokourovnove jazyky byly vyvinuty pro zjednoduseni programovani ruznych stroju
+
+cpu zpracovava instrukce
+ram uklada data
+simple as
+
+procesor je rychly
+assembly je hard asf
+
+c je prakticky prvni high-level language
+kompiluje se (a linkuje)
+.c (compile)> .o (link w/ libs)> .exe
+
+statementy v c jsou zakonceny strednikem
+c pracuje hodne s pameti
+int c; < deklarace promene - datovy typ, nazev promene
+operace yatti yatti yatta
+whitespaces jsou ignored
+vetveni: if(podminka){
+// kdyz podminka kladna
+}
+else // kdyz neni
+
+veci se daji norit
+if{
+	if{
+		if{
+			if{
+				if{
+				}
+			}
+		}
+	}
+}
+logicke operatory ! && ||
+porovnavaci < > == != <= >=
+aritmeticke + - * /
+uzitecne %
+
+namisto
+printf("amogus");
+printf("amogus");
+printf("amogus");
+printf("amogus");
+printf("amogus");
+printf("amogus");
+printf("amogus");
+printf("amogus");
+printf("amogus");
+printf("amogus");
+printf("amogus");
+
+pouzij while(i < 10){
+i = i + 1;
+printf("amogus");
+}
+
+for(init; cond; after block){block}
+
+funkce, vraci hodnotu, nemusi
+parametry, ...
+pouzije se zavolanim
