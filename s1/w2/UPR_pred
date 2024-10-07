@@ -1,0 +1,10 @@
+vse o cem se mluvi je i ve skriptach
+
+procesy maji pridelenou pamet
+	virtualni
+	nemuze cist prostor izich procesu
+	je v ni:
+		instrukce
+		stack, heap
+		atd
+
