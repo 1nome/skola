@@ -2,6 +2,8 @@
 #include <stdlib.h>
 #include <string.h>
 
+// random comment
+
 int main(){
 
 	printf("Number of iterations, starting number\n");
